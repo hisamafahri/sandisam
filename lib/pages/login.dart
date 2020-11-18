@@ -146,7 +146,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     margin: EdgeInsets.only(top: 156.0),
                     // padding: EdgeInsets.only(bottom: MediaQuery.of(context).viewInsets.bottom),
                     child: Text(
-                      'Built and owned by Hisam A Fahri. \n©2020 Hisam A Fahri.',
+                      'Built by Hisam A Fahri. \n©2020 Hisam A Fahri.',
                       textAlign: TextAlign.center,
                       style: GoogleFonts.getFont(
                         'Lato',
